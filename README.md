@@ -22,6 +22,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TanuBhati199/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/TanuBhati199/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TanuBhati199/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -82,3 +84,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/TanuBhati199/LeetCode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0633-sum-of-square-numbers) |
