@@ -123,3 +123,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/TanuBhati199/LeetCode/tree/master/1916-find-center-of-star-graph) |
