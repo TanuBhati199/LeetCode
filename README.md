@@ -127,3 +127,14 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/TanuBhati199/LeetCode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/TanuBhati199/LeetCode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/TanuBhati199/LeetCode/tree/master/1642-water-bottles) |
+<!---LeetCode Topics End-->
