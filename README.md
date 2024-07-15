@@ -156,9 +156,22 @@
 ## Array
 |  |
 | ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/TanuBhati199/LeetCode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/TanuBhati199/LeetCode/tree/master/2846-robot-collisions) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
