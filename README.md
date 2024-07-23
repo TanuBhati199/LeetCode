@@ -162,18 +162,21 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/TanuBhati199/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/TanuBhati199/LeetCode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/TanuBhati199/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/TanuBhati199/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/TanuBhati199/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
