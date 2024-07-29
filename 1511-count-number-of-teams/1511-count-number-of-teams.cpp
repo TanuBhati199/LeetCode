@@ -3,6 +3,7 @@ public:
     int numTeams(vector<int>& rating) {
       int ans=0;
       int n=rating.size();
+      
       for(int i=0;i<n;i++){
         for(int j=i+1;j<n;j++){
             if(rating[i]>rating[j]){
