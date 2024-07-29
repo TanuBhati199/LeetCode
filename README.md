@@ -163,6 +163,7 @@
 | [0948-sort-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/TanuBhati199/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanuBhati199/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/TanuBhati199/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Graph
 |  |
 | ------- |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/TanuBhati199/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/TanuBhati199/LeetCode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
