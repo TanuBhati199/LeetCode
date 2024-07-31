@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/TanuBhati199/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -233,6 +234,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanuBhati199/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/TanuBhati199/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Graph
