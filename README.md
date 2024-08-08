@@ -137,6 +137,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/TanuBhati199/LeetCode/tree/master/1642-water-bottles) |
 | [2846-robot-collisions](https://github.com/TanuBhati199/LeetCode/tree/master/2846-robot-collisions) |
 ## String
@@ -166,6 +167,7 @@
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
