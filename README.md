@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/TanuBhati199/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanuBhati199/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
