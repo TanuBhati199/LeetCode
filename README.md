@@ -148,6 +148,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TanuBhati199/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
@@ -305,6 +306,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/1240-stone-game-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
