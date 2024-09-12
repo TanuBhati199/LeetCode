@@ -158,6 +158,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/TanuBhati199/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TanuBhati199/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -196,6 +197,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TanuBhati199/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/TanuBhati199/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TanuBhati199/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -226,6 +228,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TanuBhati199/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TanuBhati199/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/TanuBhati199/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/TanuBhati199/LeetCode/tree/master/2502-sort-the-people) |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/TanuBhati199/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanuBhati199/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -382,5 +386,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/TanuBhati199/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
