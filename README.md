@@ -186,6 +186,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -229,6 +230,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
