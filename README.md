@@ -173,6 +173,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -311,6 +313,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0650-2-keys-keyboard](https://github.com/TanuBhati199/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -407,4 +411,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanuBhati199/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
