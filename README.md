@@ -191,6 +191,7 @@
 | [0011-container-with-most-water](https://github.com/TanuBhati199/LeetCode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/TanuBhati199/LeetCode/tree/master/0046-permutations) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -418,4 +419,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/TanuBhati199/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
