@@ -196,6 +196,7 @@
 | [0046-permutations](https://github.com/TanuBhati199/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/TanuBhati199/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TanuBhati199/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TanuBhati199/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0650-2-keys-keyboard](https://github.com/TanuBhati199/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/TanuBhati199/LeetCode/tree/master/1196-filling-bookcase-shelves) |
