@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanuBhati199/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TanuBhati199/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -195,6 +196,7 @@
 | [0011-container-with-most-water](https://github.com/TanuBhati199/LeetCode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/TanuBhati199/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/TanuBhati199/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TanuBhati199/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanuBhati199/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
