@@ -435,6 +435,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1054-complement-of-base-10-integer](https://github.com/TanuBhati199/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanuBhati199/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanuBhati199/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanuBhati199/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
