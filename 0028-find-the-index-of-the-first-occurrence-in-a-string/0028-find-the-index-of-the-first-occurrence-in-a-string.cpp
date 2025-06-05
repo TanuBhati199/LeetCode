@@ -1,21 +1,20 @@
 class Solution {
 public:
-    int strStr(std::string haystack, std::string needle) {
-        if (needle.empty()) return 0;  
-        int n = haystack.length();
-        int m = needle.length();
-        
-        if (m > n) return -1;  
-
-        for (int i = 0; i <= n - m; ++i) {
-            int j = 0;
-            while (j < m && haystack[i + j] == needle[j]) {
-                j++;
-            }
-            if (j == m) {
-                return i;  
-            }
+    int strStr(string haystack, string needle) {
+        if(haystack.size()<needle.size() || needle.empty()){
+            return -1;
         }
-        return -1;  
-    }
+        int res=-1,i,k;
+    
+      for(int i=0;i<=haystack.size()-needle.size();i++){
+         int k=0;
+         while(haystack[i+k]==needle[k] && k<needle.size()){
+            k++;
+            
+         }
+         if(k==needle.size()){
+            return i;
+         }}
+                
+    return -1;}
 };
