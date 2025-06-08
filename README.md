@@ -220,6 +220,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanuBhati199/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/TanuBhati199/LeetCode/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/TanuBhati199/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -396,6 +397,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TanuBhati199/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
@@ -412,6 +414,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TanuBhati199/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
@@ -428,6 +431,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanuBhati199/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanuBhati199/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
