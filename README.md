@@ -148,6 +148,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/TanuBhati199/LeetCode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TanuBhati199/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -217,6 +218,7 @@
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/TanuBhati199/LeetCode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/TanuBhati199/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/TanuBhati199/LeetCode/tree/master/0068-text-justification) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TanuBhati199/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
