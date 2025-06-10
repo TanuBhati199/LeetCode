@@ -224,6 +224,7 @@
 | [0055-jump-game](https://github.com/TanuBhati199/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/TanuBhati199/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/TanuBhati199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/TanuBhati199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanuBhati199/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -283,6 +284,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanuBhati199/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/TanuBhati199/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/TanuBhati199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/TanuBhati199/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -328,6 +330,7 @@
 | [0036-valid-sudoku](https://github.com/TanuBhati199/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/TanuBhati199/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TanuBhati199/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/TanuBhati199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/TanuBhati199/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
