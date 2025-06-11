@@ -175,6 +175,7 @@
 | [0076-minimum-window-substring](https://github.com/TanuBhati199/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TanuBhati199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/TanuBhati199/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/TanuBhati199/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TanuBhati199/LeetCode/tree/master/0392-is-subsequence) |
@@ -289,6 +290,7 @@
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/TanuBhati199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/TanuBhati199/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/TanuBhati199/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/TanuBhati199/LeetCode/tree/master/0383-ransom-note) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
