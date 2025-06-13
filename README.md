@@ -137,6 +137,7 @@
 | [0048-rotate-image](https://github.com/TanuBhati199/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/TanuBhati199/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -295,6 +296,7 @@
 | [0041-first-missing-positive](https://github.com/TanuBhati199/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/TanuBhati199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/TanuBhati199/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/TanuBhati199/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TanuBhati199/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TanuBhati199/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TanuBhati199/LeetCode/tree/master/0290-word-pattern) |
@@ -445,6 +447,7 @@
 | [0088-merge-sorted-array](https://github.com/TanuBhati199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TanuBhati199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/TanuBhati199/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/TanuBhati199/LeetCode/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/TanuBhati199/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
