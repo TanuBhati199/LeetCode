@@ -1,13 +1,14 @@
-/*class Solution {
+class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
         vector<vector<int>>arr;
         if(points.empty()){
             return 0;
         }
+        sort(points.begin(),points.end());
         int start=points[0][0];
         int end=points[0][1];
-        sort(points.begin(),points.end());
+        
         for(int i=1;i<points.size();i++){
          if(points[i][0]<=end){
             end=min(end,points[i][1]);
@@ -21,35 +22,5 @@ public:
         }
         arr.push_back({start,end});
     return arr.size();
-    }
-};*/
-class Solution {
-public:
-    int findMinArrowShots(vector<vector<int>>& points) {
-        vector<vector<int>> arr;
-        if (points.empty()) {
-            return arr.size();
-        }
-
-        sort(points.begin(), points.end());
-
-        int start = points[0][0];
-        int end = points[0][1];
-
-        for (int i = 1; i < points.size(); i++) {
-            if (points[i][0] <= end) {
-                // Overlapping interval; update the end to the minimum
-                end = min(end, points[i][1]);
-            } else {
-                arr.push_back({start, end});
-                start = points[i][0];
-                end = points[i][1];
-            }
-        }
-
-        // Add the last interval
-        arr.push_back({start, end});
-
-        return arr.size();
     }
 };
