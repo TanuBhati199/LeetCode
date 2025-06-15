@@ -174,6 +174,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanuBhati199/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/TanuBhati199/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/TanuBhati199/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/TanuBhati199/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/TanuBhati199/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TanuBhati199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/TanuBhati199/LeetCode/tree/master/0071-simplify-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
