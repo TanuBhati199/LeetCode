@@ -139,6 +139,7 @@
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanuBhati199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/TanuBhati199/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -180,6 +181,7 @@
 | [0125-valid-palindrome](https://github.com/TanuBhati199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanuBhati199/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TanuBhati199/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/TanuBhati199/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/TanuBhati199/LeetCode/tree/master/0290-word-pattern) |
@@ -207,6 +209,7 @@
 | [0071-simplify-path](https://github.com/TanuBhati199/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanuBhati199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TanuBhati199/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -478,6 +481,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Union Find
 |  |
