@@ -204,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/TanuBhati199/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/TanuBhati199/LeetCode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TanuBhati199/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -533,6 +534,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/TanuBhati199/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
