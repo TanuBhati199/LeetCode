@@ -137,6 +137,7 @@
 | [0048-rotate-image](https://github.com/TanuBhati199/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/TanuBhati199/LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TanuBhati199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/TanuBhati199/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -204,6 +205,7 @@
 | [0020-valid-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TanuBhati199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/TanuBhati199/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TanuBhati199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TanuBhati199/LeetCode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanuBhati199/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -244,6 +246,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/TanuBhati199/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TanuBhati199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TanuBhati199/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/TanuBhati199/LeetCode/tree/master/0274-h-index) |
