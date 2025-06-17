@@ -484,6 +484,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/TanuBhati199/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -514,6 +515,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/TanuBhati199/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/TanuBhati199/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0725-split-linked-list-in-parts](https://github.com/TanuBhati199/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
