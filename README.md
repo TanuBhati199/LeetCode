@@ -132,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/TanuBhati199/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TanuBhati199/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TanuBhati199/LeetCode/tree/master/0048-rotate-image) |
@@ -482,6 +483,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/TanuBhati199/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/TanuBhati199/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -511,6 +513,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/TanuBhati199/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0725-split-linked-list-in-parts](https://github.com/TanuBhati199/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
