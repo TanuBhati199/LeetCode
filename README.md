@@ -341,6 +341,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
