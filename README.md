@@ -349,6 +349,7 @@
 | [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanuBhati199/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -363,6 +364,7 @@
 | [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanuBhati199/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -374,6 +376,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanuBhati199/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -469,6 +472,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
