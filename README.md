@@ -357,6 +357,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/TanuBhati199/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/TanuBhati199/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -376,6 +377,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/TanuBhati199/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/TanuBhati199/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/TanuBhati199/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/TanuBhati199/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -390,6 +392,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/TanuBhati199/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuBhati199/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
