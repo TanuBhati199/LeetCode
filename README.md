@@ -188,6 +188,7 @@
 | [0290-word-pattern](https://github.com/TanuBhati199/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TanuBhati199/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TanuBhati199/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TanuBhati199/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/TanuBhati199/LeetCode/tree/master/0664-strange-printer) |
@@ -262,6 +263,7 @@
 | [0274-h-index](https://github.com/TanuBhati199/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/TanuBhati199/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanuBhati199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TanuBhati199/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/TanuBhati199/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/TanuBhati199/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -402,6 +404,7 @@
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanuBhati199/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TanuBhati199/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -480,6 +483,7 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/TanuBhati199/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanuBhati199/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -489,6 +493,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/TanuBhati199/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanuBhati199/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/TanuBhati199/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -503,6 +508,7 @@
 | [0130-surrounded-regions](https://github.com/TanuBhati199/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanuBhati199/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/TanuBhati199/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -560,6 +566,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TanuBhati199/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/TanuBhati199/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanuBhati199/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/TanuBhati199/LeetCode/tree/master/0399-evaluate-division) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanuBhati199/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/TanuBhati199/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/TanuBhati199/LeetCode/tree/master/2035-count-sub-islands) |
